@@ -109,15 +109,14 @@ I'm a Mobile Developer with over 7 years of experience in national and internati
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;padding-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fabriciohsilva&theme=react&show_icons=true&hide_border=false&count_private=true" 
   />
-<br>
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      style="margin-top: 16px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciohsilva&theme=react&show_icons=true&hide_border=false&layout=compact" 
   />
 
