@@ -3,7 +3,7 @@
 
 ## Hello there
 
-I'm a Mobile Developer with over 7 years of experience in national and international projects, focusing on cross-platform applications using React Native, TypeScript, Expo, and Firebase. Strong performance in agile environments (Scrum/Kanban), leading technical initiatives, internal workshops, and continuous improvement. Highlighted contributions in the banking sector with API integration, UI redesigns, and app store publishing.
+I'm a Mobile Developer with over 7 years of experience in national and international projects, focusing on cross-platform applications using React Native, Ionic, Angular, TypeScript, Expo, and Firebase. Strong performance in agile environments (Scrum/Kanban), leading technical initiatives, internal workshops, and continuous improvement. Highlighted contributions in the banking sector with API integration, UI redesigns, and app store publishing.
 
 
 ---
