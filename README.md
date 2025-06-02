@@ -3,7 +3,7 @@
 
 ## Hello there
 
-I'm a Mobile Developer with over 7 years of experience in national and international projects, focusing on cross-platform applications using React Native, Ionic, Angular, TypeScript, Expo, and Firebase. Strong performance in agile environments (Scrum/Kanban), leading technical initiatives, internal workshops, and continuous improvement. Highlighted contributions in the banking sector with API integration, UI redesigns, and app store publishing.
+I'm a Mobile Developer with over 7 years of experience in national and international projects, focusing on cross-platform applications using React Native, Ionic, Angular, TypeScript, Expo and with a backgrouond of native development using Kotlin/Java and Swift. Strong performance in agile environments (Scrum/Kanban), leading technical initiatives, internal workshops, and continuous improvement. Highlighted contributions in the banking sector with API integration, UI redesigns, and app store publishing.
 
 
 ---
@@ -52,6 +52,37 @@ I'm a Mobile Developer with over 7 years of experience in national and internati
 />
 <img 
     align="left" 
+    alt="Ionic"
+    title="Ionic" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+          
+<img
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;"     
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img
+    align="left" 
+    alt="Android"
+    title="Android" 
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+<img 
+    align="left" 
+    alt="Swift"
+    title="Swift" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+                   
+
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -60,35 +91,11 @@ I'm a Mobile Developer with over 7 years of experience in national and internati
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
