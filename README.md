@@ -1,9 +1,9 @@
 # 👨🏾‍💻 Fabrício Silva
-**`Cross-Platform Mobile App Developer`**
+**`Cross-Platform Mobile App Engineer`**
 
 ## Hello there 👋🏾
 
-I'm a Mobile Developer with over 7 years of experience in national and international projects, focusing on cross-platform applications using React Native, Ionic, Angular, TypeScript, Expo and with a backgrouond of native development using Kotlin/Java and Swift. Strong performance in agile environments (Scrum/Kanban), leading technical initiatives, internal workshops, and continuous improvement. Highlighted contributions in the banking sector with API integration, UI redesigns, and app store publishing.
+I'm a Mobile Engineer with over 7 years of experience in React Native, Android (Java/Kotlin), and Ionic/AngularJS. Proven ability to build scalable cross-platform apps, migrate legacy systems to modern stacks, and enhance app performance and UX through analytics and optimization. Have delivered financial applications, UI redesigns, and hybrid solutions for high-impact banking and enterprise clients. Strong background in agile environments and leading technical workshops.
 
 
 ---
